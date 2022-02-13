@@ -7,7 +7,7 @@ Adım Emre ve 17 yaşındayım. Yazılıma 1 yıl önce Discord botları gelişt
 </div>
 
 
-   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/796263552771817472?hideDiscrim=true)](https://discord.com/users/239330400223232000)
+   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/735947715443294341?hideDiscrim=true)](https://discord.com/users/239330400223232000)
 
 
 ## Bana ulaşmak için
