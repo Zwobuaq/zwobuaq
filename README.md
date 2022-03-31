@@ -6,7 +6,7 @@ Adım Emre ve 18 yaşındayım. Yazılıma 3 yıl önce Discord botları gelişt
     <img src="https://komarev.com/ghpvc/?username=Zwobuaq&color=dc143c"/>
 </div>
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/744229839137144925)](https://discord.com/users/744229839137144925)
 
 ## Bana ulaşmak için
 
