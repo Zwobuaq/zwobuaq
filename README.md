@@ -13,8 +13,8 @@ Adım Emre ve 18 yaşındayım. Yazılıma 3 yıl önce Discord botları gelişt
 <div align="center">
     <a href="https://discord.com/users/735947715443294341" target="_blank"><img src="https://shields.io/badge/Zwo-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/Zwobuaq" target="_blank"><img src="https://shields.io/badge/Zwbuaq-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://discord.gg/stark" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-    <a href="https://instagram.com/wq.emreal" target="_blank"><img src="https://img.shields.io/badge/@wq.emreal-111111.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a> &nbsp;
+    <a href="https://discord.gg/nudeland" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+    <a href="https://instagram.com/ichbinereros" target="_blank"><img src="https://img.shields.io/badge/@ichbinereros-111111.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a> &nbsp;
 </div>
 
 ## Bildiğim yazılım dilleri
