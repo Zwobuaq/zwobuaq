@@ -1,6 +1,6 @@
 # Selamlarr 👋👋
 
-Adım Emre ve 18 yaşındayım. Yazılıma 5 yıl önce Discord botları geliştirerek başladım. Ve Full Stack Web Development öğrenerek yazılıma devam ediyorum. Yeni şeyler öğrenmeye çalışıyorum. JavaScript, TypeScript ve Vue geliştiricisiyim.
+Ben Zwo ve 18 yaşındayım. Yazılıma 5 yıl önce Discord botları geliştirerek başladım. Ve Full Stack Web Development öğrenerek yazılıma devam ediyorum. Yeni şeyler öğrenmeye çalışıyorum. JavaScript, TypeScript ve Vue geliştiricisiyim.
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Zwobuaq&color=dc143c"/>
