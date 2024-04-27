@@ -11,9 +11,9 @@ Ben Zwo ve 18 yaşındayım. Yazılıma 5 yıl önce Discord botları geliştire
 ## Bana ulaşmak için
 
 <div align="center">
-    <a href="https://discord.com/users/724579439975071806" target="_blank"><img src="https://shields.io/badge/Ash-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/1193116562362732566" target="_blank"><img src="https://shields.io/badge/Ash-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/Zwobuaq" target="_blank"><img src="https://shields.io/badge/Zwobuaq-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://discord.gg/senator" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+    <a href="https://discord.gg/medine" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
     &nbsp;
 </div>
 
